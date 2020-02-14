@@ -19,5 +19,5 @@ How to deploy infrastructure
 > Once job is successful website will be accessible from VM IPs
 >
 > Proposed Architecture:- Here is architecture solution diagram 
->
-> ![Solution Diagram.JPG](/index.php/core/preview?fileId=698&x=1024&y=1024&a=true#mimetype=image%2Fjpeg&hasPreview=true&fileId=698)
+
+![Solution Diagram.pdf](/index.php/f/622#mimetype=application%2Fpdf&hasPreview=false&fileId=622)
